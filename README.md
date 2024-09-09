@@ -1,8 +1,12 @@
-# React + Vite
+# Películas App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web en React que permite registrar películas mediante un formulario. La aplicación guarda los datos en el `localStorage` y muestra cada película en una tarjeta (card). 
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **HTML**: Lenguaje de marcado para estructurar la aplicación.
+- **CSS**: Lenguaje de estilos para la presentación y diseño de la aplicación.
+- **localStorage**: API del navegador para almacenar datos localmente.
+## Para verlo
+https://10altadepeliculas.netlify.app
